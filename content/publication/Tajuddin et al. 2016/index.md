@@ -1,0 +1,11 @@
++++
+title = "Large-Scale Exome-wide Association Analysis Identifies Loci for White Blood Cell Traits and Pleiotropy with Immune-Mediated Diseases"
+date = 2016-07-01
+authors = ["S. M. Tajuddin<sup>1</sup>", "U. M. Schick<sup>1</sup>", "***et al.***", "G. Lettre<sup>2</sup>", "A. P. Reiner<sup>2</sup>", "P. L. Auer<sup>2</sup>"]
+publication_types = ["2"]
+abstract = "White blood cells play diverse roles in innate and adaptive immunity. Genetic association analyses of phenotypic variation in circulating white blood cell (WBC) counts from large samples of otherwise healthy individuals can provide insights into genes and biologic pathways involved in production, differentiation, or clearance of particular WBC lineages (myeloid, lymphoid) and also potentially inform the genetic basis of autoimmune, allergic, and blood diseases. We performed an exome array-based meta-analysis of total WBC and subtype counts (neutrophils, monocytes, lymphocytes, basophils, and eosinophils) in a multi-ancestry discovery and replication sample of âˆ¼157,622 individuals from 25 studies. We identified 16 common variants (8 of which were coding variants) associated with one or more WBC traits, the majority of which are pleiotropically associated with autoimmune diseases. Based on functional annotation, these loci included genes encoding surface markers of myeloid, lymphoid, or hematopoietic stem cell differentiation (CD69, CD33, CD87), transcription factors regulating lineage specification during hematopoiesis (ASXL1, IRF8, IKZF1, JMJD1C, ETS2-PSMG1), and molecules involved in neutrophil clearance/apoptosis (C10orf54, LTA), adhesion (TNXB), or centrosome and microtubule structure/function (KIF9, TUBD1). Together with recent reports of somatic ASXL1 mutations among individuals with idiopathic cytopenias or clonal hematopoiesis of undetermined significance, the identification of a common regulatory 3' UTR variant of ASXL1 suggests that both germline and somatic ASXL1 mutations contribute to lower blood counts in otherwise asymptomatic individuals. These association results shed light on genetic mechanisms that regulate circulating WBC counts and suggest a prominent shared genetic architecture with inflammatory and autoimmune diseases."
+selected = false
+publication = "*Am. J. Hum. Genet.*"
+doi = "10.1016/j.ajhg.2016.05.003"
++++
+

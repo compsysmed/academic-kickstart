@@ -1,0 +1,11 @@
++++
+title = "Platelet-Related Variants Identified by Exomechip Meta-analysis in 157,293 Individuals"
+date = 2016-07-01
+authors = ["J. D. Eicher<sup>1</sup>", "N. Chami<sup>1</sup>", "**T. Kacprowski<sup>1</sup>**", "A. Nomura<sup>1</sup>", "N. Faraday<sup>2</sup>", "P. L. Auer<sup>2</sup>", "A. P. Reiner<sup>2</sup>", "G. Lettre<sup>2</sup>", "A. D. Johnson<sup>2</sup>"]
+publication_types = ["2"]
+abstract = "Platelet production, maintenance, and clearance are tightly controlled processes indicative of platelets' important roles in hemostasis and thrombosis. Platelets are common targets for primary and secondary prevention of several conditions. They are monitored clinically by complete blood counts, specifically with measurements of platelet count (PLT) and mean platelet volume (MPV). Identifying genetic effects on PLT and MPV can provide mechanistic insights into platelet biology and their role in disease. Therefore, we formed the Blood Cell Consortium (BCX) to perform a large-scale meta-analysis of Exomechip association results for PLT and MPV in 157,293 and 57,617 individuals, respectively. Using the low-frequency/rare coding variant-enriched Exomechip genotyping array, we sought to identify genetic variants associated with PLT and MPV. In addition to confirming 47 known PLT and 20 known MPV associations, we identified 32 PLT and 18 MPV associations not previously observed in the literature across the allele frequency spectrum, including rare large effect (FCER1A), low-frequency (IQGAP2, MAP1A, LY75), and common (ZMIZ2, SMG6, PEAR1, ARFGAP3/PACSIN2) variants. Several variants associated with PLT/MPV (PEAR1, MRVI1, PTGES3) were also associated with platelet reactivity. In concurrent BCX analyses, there was overlap of platelet-associated variants with red (MAP1A, TMPRSS6, ZMIZ2) and white (PEAR1, ZMIZ2, LY75) blood cell traits, suggesting common regulatory pathways with shared genetic architecture among these hematopoietic lineages. Our large-scale Exomechip analyses identified previously undocumented associations with platelet traits and further indicate that several complex quantitative hematological, lipid, and cardiovascular traits share genetic factors."
+selected = false
+publication = "*Am. J. Hum. Genet.*"
+doi = "10.1016/j.ajhg.2016.05.005"
++++
+

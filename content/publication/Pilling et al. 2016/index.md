@@ -1,0 +1,11 @@
++++
+title = "Gene transcripts associated with muscle strength: a CHARGE meta-analysis of 7,781 persons"
+date = 2016-01-01
+authors = ["L. C. Pilling<sup>1</sup>", "R. Joehanes<sup>1</sup>", "**T. Kacprowski<sup>1</sup>**", "M. Peters<sup>1</sup>", "R. Jansen<sup>1</sup>", "*et al.*", "B. Penninx<sup>2</sup>", "J. B. van Meurs<sup>2</sup>", "L. Ferrucci<sup>2</sup>", "T. Kocher<sup>2</sup>", "J. Murabito<sup>2</sup>", "D. Melzer<sup>2</sup>"]
+publication_types = ["2"]
+abstract = "Lower muscle strength in midlife predicts disability and mortality in later life. Blood-borne factors, including growth differentiation factor 11 (GDF11), have been linked to muscle regeneration in animal models. We aimed to identify gene transcripts associated with muscle strength in adults. Meta-analysis of whole blood gene expression (overall 17,534 unique genes measured by microarray) and hand-grip strength in four independent cohorts (n = 7,781, ages: 20-104 yr, weighted mean = 56), adjusted for age, sex, height, weight, and leukocyte subtypes. Separate analyses were performed in subsets (older/younger than 60, men/women). Expression levels of 221 genes were associated with strength after adjustment for cofactors and for multiple statistical testing, including ALAS2 (rate-limiting enzyme in heme synthesis), PRF1 (perforin, a cytotoxic protein associated with inflammation), IGF1R, and IGF2BP2 (both insulin like growth factor related). We identified statistical enrichment for hemoglobin biosynthesis, innate immune activation, and the stress response. Ten genes were associated only in younger individuals, four in men only and one in women only. For example, PIK3R2 (a negative regulator of PI3K/AKT growth pathway) was negatively associated with muscle strength in younger (<60 yr) individuals but not older (â‰¥ 60 yr). We also show that 115 genes (52%) have not previously been linked to muscle in NCBI PubMed abstracts. This first large-scale transcriptome study of muscle strength in human adults confirmed associations with known pathways and provides new evidence for over half of the genes identified. There may be age- and sex-specific gene expression signatures in blood for muscle strength."
+selected = false
+publication = "*Physiol. Genomics*"
+doi = "10.1152/physiolgenomics.00054.2015"
++++
+

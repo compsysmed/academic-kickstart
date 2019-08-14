@@ -1,0 +1,11 @@
++++
+title = "Exome Genotyping Identifies Pleiotropic Variants Associated with Red Blood Cell Traits"
+date = 2016-07-01
+authors = ["N. Chami<sup>1</sup>", "M. H. Chen<sup>1</sup>", "A. J. Slater<sup>1</sup>", "***et al.***", "S. K. Ganesh<sup>2</sup>", "P. L. Auer<sup>2</sup>", "A. D. Johnson<sup>2</sup>", "A. P. Reiner<sup>2</sup>", "G. Lettre<sup>2</sup>"]
+publication_types = ["2"]
+abstract = "Red blood cell (RBC) traits are important heritable clinical biomarkers and modifiers of disease severity. To identify coding genetic variants associated with these traits, we conducted meta-analyses of seven RBC phenotypes in 130,273 multi-ethnic individuals from studies genotyped on an exome array. After conditional analyses and replication in 27,480 independent individuals, we identified 16 new RBC variants. We found low-frequency missense variants in MAP1A (rs55707100, minor allele frequency [MAF] = 3.3%, p = 2 × 10(-10) for hemoglobin [HGB]) and HNF4A (rs1800961, MAF = 2.4%, p < 3 × 10(-8) for hematocrit [HCT] and HGB). In African Americans, we identified a nonsense variant in CD36 associated with higher RBC distribution width (rs3211938, MAF = 8.7%, p = 7 × 10(-11)) and showed that it is associated with lower CD36 expression and strong allelic imbalance in ex vivo differentiated human erythroblasts. We also identified a rare missense variant in ALAS2 (rs201062903, MAF = 0.2%) associated with lower mean corpuscular volume and mean corpuscular hemoglobin (p < 8 × 10(-9)). Mendelian mutations in ALAS2 are a cause of sideroblastic anemia and erythropoietic protoporphyria. Gene-based testing highlighted three rare missense variants in PKLR, a gene mutated in Mendelian non-spherocytic hemolytic anemia, associated with HGB and HCT (SKAT p < 8 × 10(-7)). These rare, low-frequency, and common RBC variants showed pleiotropy, being also associated with platelet, white blood cell, and lipid traits. Our association results and functional annotation suggest the involvement of new genes in human erythropoiesis. We also confirm that rare and low-frequency variants play a role in the architecture of complex human traits, although their phenotypic effect is generally smaller than originally anticipated."
+selected = false
+publication = "*Am. J. Hum. Genet.*"
+doi = "10.1016/j.ajhg.2016.05.007"
++++
+
