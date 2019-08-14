@@ -70,6 +70,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - BSc Students
+- Members
+
+weight: 1
 ---
 
 I've been studying Bioinformatics at the Technical University of Munich and the LMU since

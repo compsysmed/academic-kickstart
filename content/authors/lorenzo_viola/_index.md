@@ -67,6 +67,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Alumni
+
+weight: 20
 ---
 
 I'm a master student in Engineering in Computer Science at Sapienza University,

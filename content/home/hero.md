@@ -24,7 +24,7 @@ title = "**Computational Systems Medicine**"
   # gradient_end = "#2b94c3"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
+  # image = "TK1_1422.JPG"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -48,10 +48,9 @@ title = "**Computational Systems Medicine**"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-_Research Group @ Chair of Experimental Bioinformatics @ TUM_\\
-Our group aims to elucidate the molecular mechanisms behind phenotypes in
-general and human diseases, in particular. To that end, we develop integrative
-bioinformatics methods leveraging network analysis, machine learning
-techniques, and statistical approaches. We apply own and existing approaches in
-close collaboration with biologists and physicians to derive insights from
+_Research Group @ Chair of Experimental Bioinformatics @ TUM_
+Our group aims to elucidate the molecular mechanisms behind phenotypes and diseases. To that
+end, we develop integrative bioinformatics methods leveraging network analysis,
+machine learning, and statistics. We apply own and existing approaches in close
+collaboration with biologists and physicians to derive insights from
 multi-omics data.

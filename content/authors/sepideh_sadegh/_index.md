@@ -68,7 +68,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- Members
 - PhD Students
+
+weight: 15
 ---
 
 I am a PhD student in the Chair of Experimental Bioinformatics at TU Munich. I

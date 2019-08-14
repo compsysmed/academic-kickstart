@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of the Resarch Group Computational Systems Medicine
+role: Group Leader
 
 # Organizations/Affiliations
 organizations:
@@ -74,6 +74,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Head
+- Members
+
+weight: 5
 ---
 
 I'm a research group leader at the Chair of Experimental Bioinformatics.  My

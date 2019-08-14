@@ -69,6 +69,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Post-Docs
+- Members
+
+weight: 19
 ---
 
 I will start in summer 2019 as a Postdoc at the Chair of Experimental

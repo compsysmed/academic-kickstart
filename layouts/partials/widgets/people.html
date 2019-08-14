@@ -8,6 +8,7 @@
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
+  <img src="img/TK1_1422_cut.JPG">
 
   {{ with $page.Content }}
   <div class="col-md-12">
@@ -43,7 +44,7 @@
 
     <div class="portrait-title">
       <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h2>
-      <!-- {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }} -->
+      {{ with .Params.role }}<h3 style="margin-top:-10px;margin-bottom:20px;">{{ . | markdownify | emojify }}</h3>{{ end }}
       <!-- {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }} -->
     </div>
   </div>

@@ -67,6 +67,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Alumni
+
+weight: 9
 ---
 
 I'm an undergraduate student from Edmonton, Alberta! I'm midway through my

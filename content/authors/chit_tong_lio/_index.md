@@ -68,6 +68,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - MSc Students
+- Members
+
+weight: 18
 ---
 
 I’m a biology master student from LMU Munich, where I have experiences in

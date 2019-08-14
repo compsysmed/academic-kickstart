@@ -69,6 +69,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Alumni
+
+weight: 10
 ---
 
 I'm a PhD student in research unit of Epidemiology, Biostatistics &

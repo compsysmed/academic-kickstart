@@ -70,6 +70,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - BSc Students
+- Members
+
+weight: 2
 ---
 
 I'm in my third year of studies towards a bachelor's degree in Bioinformatics
