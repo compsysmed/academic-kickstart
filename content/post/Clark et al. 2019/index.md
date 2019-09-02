@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Papers"]
-summary = "GWAS paper accepted in Nature Communications."
+summary = "A GWAS paper co-authored by Tim Kacprowski has just been accepted for publication in Nature Communications."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
