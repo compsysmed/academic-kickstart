@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Nils Mehrtens
+name: Ertida Muka
 
 # Username (this should match the folder name)
 authors:
-- nils_mehrtens
+- ertida_muka
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,6 +12,7 @@ superuser: false
 # Role/position
 role: BSc Student
 
+# Organizations/Affiliations
 organizations:
 - name: Chair of Experimental Bioinformatics
   url: "http://www.exbio.de"
@@ -19,6 +20,7 @@ organizations:
   url: "https://www.tum.de"
 - name: Ludwig-Maximilians-Universität München
   url: "https://www.uni-muenchen.de"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio:   
@@ -47,7 +49,7 @@ bio:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:fenn@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
+#  link: 'mailto:wli@health.sdu.dk'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -69,13 +71,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- BSc Students
-- Alumni
+- Members
 
-weight: 11
+weight: 20
 ---
 
-I study bioinformatics at TUM and LMU and recently joined the Chair of
-Experimental Bioinformatics to research the relationship between miRNA
-expression levels and various phenotype data in the context of my bachelor
-thesis.
+I'm rounding up my Bioinformatics studies at LMU and TUM Munich with a bachelor's thesis at the Chair of Experimental Bioinformatics. In collaboration with the Institute of Pathology in Munich, my thesis studies the detection of Copy Number Variants using off target data, generated from targeted next-generation sequencing.
