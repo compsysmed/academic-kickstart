@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Evelyn Scheibling
+name: Rahel Caspar
 
 # Username (this should match the folder name)
 authors:
-- evelyn_scheibling
+- rahel_caspar
 
 # Is this the primary user of the site?
 superuser: false
@@ -77,8 +77,4 @@ user_groups:
 weight: 20
 ---
 
-I'm a Bachelor student in Bioinformatics at the Technical Univerity of
-Munich an the Ludwig-Maximilian University. In October 2019 I joined the
-Chair of Experimental Bioinformatics in Weihenstephan to work on my
-bachelor thesis on the indentification of miRNA binding site enriched
-transcripts in The Cancer Genome Atlas.
+I am a Bachelor student in Bioinformatics at the TUM and LMU since October 2016. In December 2019, I joined the Chair of Experimental Bioinformatics to work on my bachelor thesis about the landscape of alternative splicing events in a healthypopulation.
