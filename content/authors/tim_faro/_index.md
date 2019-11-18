@@ -72,7 +72,7 @@ user_groups:
 - BSc Students
 - Members
 
-weight: 2
+weight: 3
 ---
 
 I'm in my third year of studies towards a bachelor's degree in Bioinformatics

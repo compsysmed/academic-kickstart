@@ -72,7 +72,7 @@ user_groups:
 - BSc Students
 - Members
 
-weight: 6
+weight: 7
 ---
 
 I’m a bioinformatics bachelor student at the Technical University of Munich and

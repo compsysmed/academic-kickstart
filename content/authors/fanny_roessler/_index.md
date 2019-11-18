@@ -73,7 +73,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 14
+weight: 17
 ---
 
 I’m a Bioinformatics Bachelor student at the Technical University of Munich and

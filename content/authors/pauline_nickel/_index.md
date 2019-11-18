@@ -72,7 +72,7 @@ user_groups:
 - BSc Students
 - Members
 
-weight: 12
+weight: 15
 ---
 
 I'm a bachelor student in Bioinformatics at LMU and TUM in Munich. Recently, I

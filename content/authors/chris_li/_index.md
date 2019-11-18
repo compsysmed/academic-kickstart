@@ -68,7 +68,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 9
+weight: 10
 ---
 
 I'm an undergraduate student from Edmonton, Alberta! I'm midway through my
