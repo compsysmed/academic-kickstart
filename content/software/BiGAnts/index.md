@@ -26,6 +26,5 @@ image = ""
 caption = ""
 
 +++
-#Package PyPi
-A package for network-constrained biclustering of patients and multi-omics data can also be used. Download and installation insructions can be found here.
+A package for network-constrained biclustering of patients and multi-omics data can also be used. Download and installation instructions can be found here:
 external_link = "https://pypi.org/project/bigants/"
