@@ -75,4 +75,3 @@ subtitle = ""
  css_class = ""
 +++
 
-# Coming soon
