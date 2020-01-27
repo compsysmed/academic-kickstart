@@ -22,7 +22,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "sponge_overview.png"`.
 [header]
-image = "BigAnts_logo.png"
+image = "logo.png"
 caption = ""
 
 +++
