@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Publications"]
-summary = "A paper co-authored by Tim Kacprowski inevstigating genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans has just been published."
+summary = "A paper co-authored by Tim Kacprowski investigating genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans has just been published."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
