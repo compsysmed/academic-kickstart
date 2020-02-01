@@ -26,6 +26,6 @@ image = ""
 caption = ""
 
 +++
-The [Python package](https://pypi.org/project/fastlogranktest/) and [R package](https://cran.r-project.org/web/packages/fastlogranktest/index.html) provide wrappers around the C++ implementation. Both offer a fast alternative to the standard logrank-test implementations in the liflines.statistics and survival pacakges, respectively. All you have to do is install the package fastlogranktest and use the method of the same name with exactly the same usage. Furthermore, the Python package and R package provide threading to parallelize the logrank-tests and calculate them even faster with the multi_logrank_test()-method.
+The [Python package](https://pypi.org/project/fastlogranktest/) and [R package](https://cran.r-project.org/web/packages/fastlogranktest/index.html) provide wrappers around the C++ implementation. Both offer a fast alternative to the standard logrank-test implementations in the liflines.statistics and survival packages, respectively. All you have to do is install the package fastlogranktest and use the method of the same name with exactly the same usage. Furthermore, the Python package and R package provide threading to parallelize the logrank-tests and calculate them even faster with the multi_logrank_test()-method.
 
 The C++ programm itself allows to specify arbitrary group classifications and survival data in a simple tab-separated text-file to run many tests with a single command. The result is provided as another text file with the p-values corresponding to the specified classifications.
