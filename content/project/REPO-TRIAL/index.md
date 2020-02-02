@@ -12,7 +12,7 @@ summary = "The EU H2020 project REPO-TRIAL aims at developing an _in silico_ app
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://repotrial.eu/"
+external_link = "https://repo-trial.eu/"
 
 # Does the project detail page use math formatting?
 math = false
