@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team | ResGro CompSysMed</title>
+    <link>/tags/team/</link>
+      <atom:link href="/tags/team/index.xml" rel="self" type="application/rss+xml" />
+    <description>Team</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Apr 2019 23:01:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Team</title>
+      <link>/tags/team/</link>
+    </image>
+    
+    <item>
+      <title>The group grows</title>
+      <link>/post/growth/</link>
+      <pubDate>Wed, 24 Apr 2019 23:01:00 +0200</pubDate>
+      <guid>/post/growth/</guid>
+      <description>&lt;p&gt;Olga Tsoy will join as a Post-Doc. Amit Fenn and Gihanna Galindez join as PhD Students. Tim Faro, Judith Bernett, Andreas Stelzer, Christoph Kloppert and Fanny Rößler decided to do their Bachelor&amp;rsquo;s thesis with us.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
