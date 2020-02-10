@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["federated machine learning", "privacy-preserving machine learning"]
+tags = ["FeatureCloud","machine learning", "Projects"]
 
 # Project summary to display on homepage.
 summary = "The EU H2020 project FeatureCloud aims at developing methods for privacy-preserving, federated machine learning."

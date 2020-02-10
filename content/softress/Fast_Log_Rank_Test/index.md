@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["drug repurposing", "systems medicine"]
+tags = ["Fastlogranktest", "Python", "R", "C++","statistics", "Software"]
 
 # Project summary to display on homepage.
 summary = "Fastlogranktest is a software package providing wicked-fast implementations of the logrank test in C++, R, and Python."

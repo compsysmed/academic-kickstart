@@ -1,16 +1,16 @@
 +++
-title = "Fast Log-Rank Test: New software released"
-subtitle = "Available as Python and R package"
+title = "BiCoN: Preprint released on bioRxiv"
+subtitle = ""
 
-date = 2020-01-30T00:00:00
-lastmod = 2020-01-30T00:00:00
+date = 2020-02-03T00:00:00
+lastmod = 2020-02-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-tags = ["Fastlogranktest","Software"]
-summary = "The fast log-rank test implementation is now available as Python and R package."
+tags = ["BiCoN","Publications"]
+summary = "A preprint of the paper regarding the BiCoN tool (Biclustering Constrained by Networks) is now available on bioRxiv."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -18,7 +18,7 @@ summary = "The fast log-rank test implementation is now available as Python and 
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["Fast_Log_Rank_Test"]
+projects = ["BiCoN"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -35,6 +35,5 @@ projects = ["Fast_Log_Rank_Test"]
 
 +++
 
-The C++ based implementation of the log-rank test is now available as a [Python package](https://pypi.org/project/fastlogranktest/) and [R package](https://cran.r-project.org/web/packages/fastlogranktest/index.html).
+The manuscript "BiCoN: Network-constrained biclustering of patients and omics data" for the [BiCoN tool](https://www.exbio.wzw.tum.de/bicon/) is now available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1).
 
-More information about the tool can be found on the [software page](/softress/fast_log_rank_test/).

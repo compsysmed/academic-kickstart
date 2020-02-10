@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["GWAS", "systems medicine", "epistasis", "networks", "GPU"]
+tags = ["GWAS", "systems medicine", "epistasis", "networks", "GPU","Projects"]
 
 # Project summary to display on homepage.
 summary = "We tackle the challenge of higher-order epistasis detection using biological networks to narrow the search space and GPU computing to improve the efficiency. Phenotype-specific epistasis-modules extracted from larger networks will help to better understand the underlying biological mechanisms of different phenotypes."

@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["de novo network enrichment"]
+tags = ["network enrichment", "networks", "Projects"]
 
 # Project summary to display on homepage.
 summary = "We develop tools that leverage information from molecular interaction networks in understanding molecular profiling data. _De novo_ network enrichment tools extract subnetworks that mechanistically explain a phenotype of interest, e.g. a disease."
