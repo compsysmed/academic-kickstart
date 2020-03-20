@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: PhD Student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -68,7 +68,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- MSc Students
+- PhD Students
 
 weight: 11
 ---
