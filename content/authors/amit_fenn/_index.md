@@ -71,7 +71,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 4
+weight: 5
 ---
 
 I'm a PhD candidate at the chair of Experimental Bioinformatics at TUM. My

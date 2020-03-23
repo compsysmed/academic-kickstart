@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Pauline Nickel
+name: Valentin Hildemann
 
 # Username (this should match the folder name)
 authors:
-- pauline_nickel
+- valentin_hildemann
 
 # Is this the primary user of the site?
 superuser: false
@@ -70,12 +70,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - BSc Students
-- Alumni
+- Members
 
-weight: 18
+weight: 7
 ---
 
-I'm a bachelor student in Bioinformatics at LMU and TUM in Munich. Recently, I
-joined the Chair of Experimental Bioinformatics in Weihenstephan for my
-bachelor thesis on the Cytoscape tool NetworkPriotizer. This application was
-primary developed for Cytoscape 2 and is now adapted to the new version.
+Studying Bioinformatics since 2017 at the LMU and TUM in Munich I am now working towards my Bachelor's degree. Therefore I joined the Chair of Experimental Bioinformatics for my Bachelor's thesis on quantifying SNPs in mitochondrial DNA, as for me the mitochondrion is the most interesting cell organelle there is.

@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Pauline Nickel
+name: Thomas Eska
 
 # Username (this should match the folder name)
 authors:
-- pauline_nickel
+- eska_thomas
 
 # Is this the primary user of the site?
 superuser: false
@@ -70,12 +70,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - BSc Students
-- Alumni
+- Members
 
-weight: 18
+weight: 3
 ---
 
-I'm a bachelor student in Bioinformatics at LMU and TUM in Munich. Recently, I
-joined the Chair of Experimental Bioinformatics in Weihenstephan for my
-bachelor thesis on the Cytoscape tool NetworkPriotizer. This application was
-primary developed for Cytoscape 2 and is now adapted to the new version.
+I'm a bioinformatics bachelor student at the TUM and the LMU. I joined the chair for experimental bioinformatics for my bachelor's thesis on drug repurposing using transcription factor and drug perturbation data.

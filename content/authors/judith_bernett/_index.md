@@ -75,7 +75,4 @@ user_groups:
 weight: 1
 ---
 
-I've been studying Bioinformatics at the Technical University of Munich and the LMU since
-October 2016. Recently, I joined the Chair of Experimental Bioinformatics for
-my bachelor's thesis on putative biomarkers for major cardiovascular events in
-the SWISS-TAVI cohort.
+I've been studying Bioinformatics at the Technical University of Munich and the LMU since October 2016 and joined the Chair of Experimental Bioinformatics for my bachelor's thesis. Here, I developed a risk score for mortality prediction in patients undergoing transcatheter aortic valve implantation. Currently, I am working as a HiWi at the chair to continue my work and deepen my knowledge on the subject of computational systems medicine.

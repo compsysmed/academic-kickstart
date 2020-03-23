@@ -70,7 +70,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 12
+weight: 14
 ---
 
 I'm a PhD student in research unit of Epidemiology, Biostatistics &

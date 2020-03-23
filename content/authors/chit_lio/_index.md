@@ -70,7 +70,7 @@ user_groups:
 - Members
 - PhD Students
 
-weight: 11
+weight: 13
 ---
 
 I’m a biology master student from LMU Munich, where I have experiences in

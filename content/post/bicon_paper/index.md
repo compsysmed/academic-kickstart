@@ -7,7 +7,7 @@ lastmod = 2020-02-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Posted by Fanny Rößler"]
+authors = ["fanny_roessler"]
 
 tags = ["BiCoN","Publications"]
 summary = "A preprint of the paper regarding the BiCoN tool (Biclustering Constrained by Networks) is now available on bioRxiv."
