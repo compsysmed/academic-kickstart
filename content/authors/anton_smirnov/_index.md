@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Thomas Eska
+name: Anton Smirnov
 
 # Username (this should match the folder name)
 authors:
-- eska_thomas
+- anton_smirnov
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Student
+role: MSc Student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -69,10 +69,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- BSc Students
+- MSc Students
 - Members
 
-weight: 3
+weight: 25
 ---
 
-I'm a bioinformatics bachelor student at the TUM and the LMU. I joined the Chair of Experimental Bioinformatics for my bachelor's thesis on drug repurposing using transcription factor and drug perturbation data.
+Currently working on my MSc thesis ("Comparison of normalization and transformation methods in sequencing data analysis"), guided by Tim Kacprowski and Olga Tsoy. I hold BSc degrees in Bioinformatics (TUM and LMU), Chemistry and Biochemistry (LMU). As secondary projects, I also hack around with phage therapy and a couple of crowd-centered services.
+

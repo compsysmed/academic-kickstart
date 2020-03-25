@@ -71,7 +71,7 @@ user_groups:
 - Members
 - PhD Students
 
-weight: 21
+weight: 22
 ---
 
 I am a PhD student in the Chair of Experimental Bioinformatics at TU Munich. I

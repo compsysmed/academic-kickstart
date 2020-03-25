@@ -74,7 +74,7 @@ user_groups:
 - Members
 - BSc Students
 
-weight: 23
+weight: 24
 ---
 
 I'm a Bachelor student in Bioinformatics at the Technical Univerity of
