@@ -35,5 +35,5 @@ projects = ["Scellnetor"]
 
 +++
 
-The manuscript "Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development" is now available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.02.021295v2). It introduces the new tool Scellnator, a novel network-constrained scRNA-seq clustering application. An interactive online version is available at the [Scellnetor website](https://exbio.wzw.tum.de/scellnetor).
+The manuscript "Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development" is now available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.02.021295v3). It introduces the new tool Scellnator, a novel network-constrained scRNA-seq clustering application. An interactive online version is available at the [Scellnetor website](https://exbio.wzw.tum.de/scellnetor).
 
