@@ -26,4 +26,4 @@ image = ""
 caption = ""
 
 +++
-
+Scellnetor is a novel scRNA-seq clustering tool. It allows the analysis of pseudo time-courses in single-cell sequencing data via a network-constrained clustering algorithm. Scellnetor is available as interactive online application at the [Scellnetor website](https://exbio.wzw.tum.de/scellnetor/).

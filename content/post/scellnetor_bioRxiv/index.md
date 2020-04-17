@@ -5,6 +5,8 @@ subtitle = ""
 date = 2020-04-03T00:00:00
 lastmod = 2020-04-03T00:00:00
 draft = false
+reading_time = false
+profile= false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["fanny_roessler"]

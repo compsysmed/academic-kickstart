@@ -26,4 +26,4 @@ image = ""
 caption = ""
 
 +++
- 
+EpiGEN is a Python pipeline for simulating epistasis data. It supports epistasis models of arbitrary size, which can be specified either extensionally or via parametrized risk models. Moreover, the user can specify the minor allele frequencies (MAFs) of both noise and disease SNPs, and provide a bias target distribution for the generated phenotypes to simulate observation bias. EpiGEN is freely available as python 3 package on [GitHub](https://github.com/baumbachlab/epigen).

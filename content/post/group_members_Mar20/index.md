@@ -5,6 +5,8 @@ subtitle = ""
 date = 2020-03-23T00:00:00
 lastmod = 2020-03-23T00:00:00
 draft = false
+reading_time = false
+profile= false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["fanny_roessler"]
@@ -18,7 +20,7 @@ summary = "We congratulate our alumni and are happy to welcome our new group mem
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["BiCoN"]
+#projects = ["BiCoN"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

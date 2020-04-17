@@ -1,9 +1,9 @@
 +++
-title = "BiCoN: Preprint released on bioRxiv"
+title = "EpiGEN: Paper published in Bioinformatics"
 subtitle = ""
 
-date = 2020-02-03T00:00:00
-lastmod = 2020-02-03T00:00:00
+date = 2020-04-16T00:00:00
+lastmod = 2020-04-16T00:00:00
 draft = false
 reading_time = false
 profile= false
@@ -11,8 +11,8 @@ profile= false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["fanny_roessler"]
 
-tags = ["BiCoN","Publications"]
-summary = "A preprint of the paper regarding the BiCoN tool (Biclustering Constrained by Networks) is now available on bioRxiv."
+tags = ["EpiGEN","Publications"]
+summary = "We are happy to announce the publication of the article for the EpiGEN tool (epistasis simulation pipeline) in *Bioinformatics*."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -20,7 +20,7 @@ summary = "A preprint of the paper regarding the BiCoN tool (Biclustering Constr
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["BiCoN"]
+projects = []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -37,5 +37,5 @@ projects = ["BiCoN"]
 
 +++
 
-The manuscript "BiCoN: Network-constrained biclustering of patients and omics data" for the [BiCoN tool](https://www.exbio.wzw.tum.de/bicon/) is now available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1).
+The manuscript "EpiGEN: an epistasis simulation pipeline" for the [EpiGEN tool](https://github.com/baumbachlab/epigen) is now available on [Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa245).
 
