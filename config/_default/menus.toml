@@ -19,13 +19,13 @@
   weight = 4
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Software & Resources"
+  url = "#softress"
   weight = 5
 
 [[main]]
-  name = "Software & Resources"
-  url = "#softress"
+  name = "Publications"
+  url = "#publications"
   weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
