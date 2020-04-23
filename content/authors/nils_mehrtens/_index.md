@@ -72,7 +72,7 @@ user_groups:
 - BSc Students
 - Alumni
 
-weight: 16
+weight: 17
 ---
 
 I study bioinformatics at TUM and LMU and recently joined the Chair of

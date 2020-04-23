@@ -70,7 +70,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 20
+weight: 21
 ---
 
 I'm a bachelor student in Bioinformatics at TUM and LMU in Munich and recently

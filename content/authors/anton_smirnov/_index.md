@@ -72,7 +72,7 @@ user_groups:
 - MSc Students
 - Members
 
-weight: 25
+weight: 26
 ---
 
 Currently working on my MSc thesis ("Comparison of normalization and transformation methods in sequencing data analysis"), guided by Tim Kacprowski and Olga Tsoy. I hold BSc degrees in Bioinformatics (TUM and LMU), Chemistry and Biochemistry (LMU). As secondary projects, I also hack around with phage therapy and a couple of crowd-centered services.

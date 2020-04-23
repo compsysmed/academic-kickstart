@@ -19,7 +19,7 @@ summary = "To address the COVID-19 pandemic we developed a drug repurposing tool
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["CoVex"]
+softress = ["CoVex"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -36,6 +36,6 @@ projects = ["CoVex"]
 
 +++
 
-To address the current Corona pandemic, the *Chair of Experimental Bioinormatics* started a two week "ExBio vs. COVID-19" hackaton in cooperation with two TUM virologists. The *Computational Systems Medicine* recearch group was represented by [Gihanna Galindez](/authors/gihanna_galindez/), [Tim Kacprowski](/authors/tim_kacprowksi/) and [Sepideh Sadegh](/authors/sepideh_sadegh/).
+To address the current Corona pandemic, the *Chair of Experimental Bioinormatics* started a two week "ExBio vs. COVID-19" hackaton in cooperation with two TUM virologists. The *Computational Systems Medicine* recearch group was represented by [Gihanna Galindez](/authors/gihanna_galindez/), [Tim Kacprowski](/authors/tim_kacprowski/) and [Sepideh Sadegh](/authors/sepideh_sadegh/).
 
 During the hackaton a first version of the tool [CoVex](/softress/covex/) was developed, a drug repurposing tool that integrates virus-human interaction data for SARS-CoV-2 and SARS-CoV. It is now available as [online analysis platform](https://exbio.wzw.tum.de/covex/). Current development updates and research can also be found on the [*Chair of Experimental Bioinormatics*](https://www.baumbachlab.net/exbio-vs-covid-part-1) website.

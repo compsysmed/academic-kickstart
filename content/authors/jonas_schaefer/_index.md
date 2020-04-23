@@ -72,7 +72,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 23
+weight: 24
 ---
 
 I study bioinformatics at the TUM and LMU since October 2018. To apply some of
