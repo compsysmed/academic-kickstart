@@ -1,17 +1,18 @@
 ---
 # Display name
-name: Fanny Rößler
+name: Rafaela Relota
 
 # Username (this should match the folder name)
 authors:
-- fanny_roessler
+- rafaela_relota
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student Research Assistant
+role: BSc Student
 
+# Organizations/Affiliations
 organizations:
 - name: Chair of Experimental Bioinformatics
   url: "http://www.exbio.de"
@@ -19,6 +20,7 @@ organizations:
   url: "https://www.tum.de"
 - name: Ludwig-Maximilians-Universität München
   url: "https://www.uni-muenchen.de"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio:   
@@ -47,7 +49,7 @@ bio:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:fenn@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
+#  link: 'mailto:wli@health.sdu.dk'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -69,10 +71,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Student Research Assistants
 - Members
+- BSc Students
 
-weight: 23
+weight: 22
 ---
 
-I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor's degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.
+I am a Bioinformatics bachelor student at the TUM and LMU since October 2017.
+In May/June 2020 I will be joining the Chair of Experimental Bioinformatics to work on my bachelor thesis about alternative splicing in tissues and blood.
