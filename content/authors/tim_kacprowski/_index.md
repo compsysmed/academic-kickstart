@@ -76,7 +76,7 @@ user_groups:
 - Head
 - Members
 
-weight: 8
+weight: 9
 ---
 
 I'm a research group leader at the Chair of Experimental Bioinformatics.  My

@@ -74,7 +74,7 @@ user_groups:
 - Members
 - BSc Students
 
-weight: 16
+weight: 17
 ---
 
 I am an undergraduate student in the bioinformatics program at the TUM and LMU. In April 2020 I joined the chair of experimental bioinformatics in order to work on my bachelor's thesis on the extension and evaluation of a further centrality measure in the NetworkPrioritizer Cytoscape app.

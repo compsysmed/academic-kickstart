@@ -68,7 +68,7 @@ user_groups:
 - MSc Students
 - Members
 
-weight: 18
+weight: 19
 ---
 
 I am a master student of bioinformatics at TUM and LMU. I joined the Chair of Experimental Bioinformatics to write my master thesis in the field of genetic statistics, which is mainly about identifying linkage disequilibrium patterns in biological networks.

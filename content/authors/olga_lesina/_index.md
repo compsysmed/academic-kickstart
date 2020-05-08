@@ -72,7 +72,7 @@ user_groups:
 - Student Research Assistants
 - Alumni
 
-weight: 11
+weight: 12
 ---
 
 I study bioinformatics since Oct‘2018 in Munich with a research interest in

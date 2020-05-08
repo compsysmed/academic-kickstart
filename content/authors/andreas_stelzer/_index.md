@@ -72,7 +72,7 @@ user_groups:
 - BSc Students
 - Alumni
 
-weight: 28
+weight: 29
 ---
 
 I’m a bioinformatics bachelor student at the TUM and the LMU. I joined the

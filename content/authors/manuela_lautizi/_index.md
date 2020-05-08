@@ -71,7 +71,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 10
+weight: 11
 ---
 
 I’m a PhD student in the Chair of Experimental Bioinformatics in collaboration

@@ -74,7 +74,7 @@ user_groups:
 - Members
 - BSc Students
 
-weight: 19
+weight: 20
 ---
 
 I'm rounding up my Bioinformatics studies at LMU and TUM Munich with a bachelor's thesis at the Chair of Experimental Bioinformatics. In collaboration with the Institute of Pathology in Munich, my thesis studies the detection of Copy Number Variants using off target data, generated from targeted next-generation sequencing.
