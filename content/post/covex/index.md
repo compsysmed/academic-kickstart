@@ -8,7 +8,7 @@ reading_time = false
 profile= false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["fanny_roessler"]
+#authors = ["fanny_roessler"]
 
 tags = ["CoVex","Software"]
 summary = "To address the COVID-19 pandemic we developed a drug repurposing tool, which integrates SARS-CoV-2 and SARS-CoV interaction data."

@@ -9,7 +9,7 @@ reading_time = false
 profile= false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["fanny_roessler"]
+#authors = ["fanny_roessler"]
 
 tags = ["EpiGEN","Publications"]
 summary = "We are happy to announce the publication of the article for the EpiGEN tool (epistasis simulation pipeline) in *Bioinformatics*."

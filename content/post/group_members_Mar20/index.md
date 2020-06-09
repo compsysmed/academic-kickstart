@@ -9,7 +9,7 @@ reading_time = false
 profile= false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["fanny_roessler"]
+#authors = ["fanny_roessler"]
 
 tags = ["Team"]
 summary = "We congratulate our alumni and are happy to welcome our new group members."

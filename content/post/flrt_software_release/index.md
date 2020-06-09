@@ -5,6 +5,9 @@ subtitle = "Available as Python and R package"
 date = 2020-01-30T00:00:00
 lastmod = 2020-01-30T00:00:00
 draft = false
+reading_time = false
+profile= false
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []

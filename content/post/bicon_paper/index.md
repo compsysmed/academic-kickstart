@@ -9,7 +9,7 @@ reading_time = false
 profile= false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["fanny_roessler"]
+#authors = ["fanny_roessler"]
 
 tags = ["BiCoN","Publications"]
 summary = "A preprint of the paper regarding the BiCoN tool (Biclustering Constrained by Networks) is now available on bioRxiv."
