@@ -1,5 +1,5 @@
 +++
-title = "sPLINK: Preprint released on bioRxiv"
+title = "sPLINK: federated GWAS approach beats meta-analysis"
 subtitle = ""
 
 date = 2020-06-08T00:00:00
@@ -37,5 +37,6 @@ projects = ["sPLINK"]
 
 +++
 
+sPLINK (safe PLINK) allows the federated, privacy-preserving analysis of GWAS data. It works on distributed datasets without exchanging raw data and is robust against imbalanced phenotype distributions across cohorts. Federated and user-friendly analysis with sPLINK, thus, has the potential to replace meta-analysis as the gold standard for collaborative GWAS.
 The manuscript "sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies" for the [sPLINK tool](/softress/splink/) is now available on *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.06.05.136382v1)*.
 

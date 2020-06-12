@@ -1,6 +1,6 @@
 +++
 title = "Multi-Omics Analysis in a Network Context (in \"Reference Module in Biomedical Sciences\")"
-date = 2020-01-01
+date = 2020-06-01
 authors = ["O. Lazareva, **M. Lautizi**, **A. Fenn**, M. List, **T. Kacprowski**, J. Baumbach"]
 #type:
 #    0 = Uncategorized

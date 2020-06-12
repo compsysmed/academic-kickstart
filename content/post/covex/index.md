@@ -39,3 +39,5 @@ softress = ["CoVex"]
 To address the current Corona pandemic, the *Chair of Experimental Bioinormatics* started a two week "ExBio vs. COVID-19" hackaton in cooperation with two TUM virologists. The *Computational Systems Medicine* recearch group was represented by [Gihanna Galindez](/authors/gihanna_galindez/), [Tim Kacprowski](/authors/tim_kacprowski/) and [Sepideh Sadegh](/authors/sepideh_sadegh/).
 
 During the hackaton a first version of the tool [CoVex](/softress/covex/) was developed, a drug repurposing tool that integrates virus-human interaction data for SARS-CoV-2 and SARS-CoV. It is now available as [online analysis platform](https://exbio.wzw.tum.de/covex/). Current development updates and research can also be found on the [*Chair of Experimental Bioinormatics*](https://www.baumbachlab.net/exbio-vs-covid-part-1) website.
+
+A preprint is now available on *[arXiv](https://arxiv.org/abs/2004.12420)*.

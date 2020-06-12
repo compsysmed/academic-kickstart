@@ -37,4 +37,4 @@ projects = []
 
 +++
 
-[Manuela Lautizi](/authors/manuela_lautizi/), [Amit Fenn](/authors/amit_fenn/) and [Tim Kacprowski](/authors/tim_kacprowski/) from our group contributed to a new chapter for the \"Reference Module in Biomedical Sciences\" about multi-omics analysis in a network context. It provides a detailed overview of 19 current network enrichment tools, including guidelines for the selection of the most suitable methods for a partcular analysis. The chapter is now available on *[Elsevier](https://doi.org/10.1016/B978-0-12-801238-3.11647-2)*.
+[Manuela Lautizi](/authors/manuela_lautizi/), [Amit Fenn](/authors/amit_fenn/) and [Tim Kacprowski](/authors/tim_kacprowski/) from our group contributed to a new chapter for the "Reference Module in Biomedical Sciences" about multi-omics analysis in a network context. It provides a detailed overview of 19 current network enrichment tools, including guidelines for the selection of the most suitable methods for a partcular analysis. The chapter is now available on *[Elsevier](https://doi.org/10.1016/B978-0-12-801238-3.11647-2)*.
