@@ -75,5 +75,5 @@ weight: 7
 ---
 
 
-I am doing my M.SC. Computer science at the Technical University of Munich right now. I gained some experience with ligand binding site prediction in a project at Rostlab at TUM. So, in May 2020, I joined the Chair of Experimental Bioinformatics to work on exon-specific annotation of miRNA binding sites for my Master’s thesis.
+I am doing my M.Sc. Computer science at the Technical University of Munich right now. I gained some experience with ligand binding site prediction in a project at Rostlab at TUM. So, in May 2020, I joined the Chair of Experimental Bioinformatics to work on exon-specific annotation of miRNA binding sites for my Master’s thesis.
 
