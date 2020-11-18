@@ -12,7 +12,7 @@ profile= false
 #authors = 
 
 tags = ["DIGGER", "alternative splicing", "Publications"]
-summary = "A preprint of the paper regarding the BiCoN tool (Biclustering Constrained by Networks) is now available on bioRxiv."
+summary = "We are happy to announce the publication of the article for the DIGGER tool in *Nucleic Acids Research*."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -37,5 +37,5 @@ projects = ["DIGGER"]
 
 +++
 
-The paper "DIGGER: exploring the functional role of alternative splicing in protein interactions" for the [DIGGER tool](https://www.exbio.wzw.tum.de/digger/) is now published in [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa768/5911747).
+The paper "DIGGER: exploring the functional role of alternative splicing in protein interactions" for the [DIGGER tool](https://www.exbio.wzw.tum.de/digger/) by [Zakaria Louadi](/authors/zakaria_louadi/) *et al.* is now published in [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa768/5911747).
 
